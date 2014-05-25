@@ -1,0 +1,15 @@
+{
+    "type": "widget",
+    "name": "dynamics",
+    "title": "Dynamic Form Elements",
+    "description": "Dynamic elements",
+    "version": "0.0.1",
+    "author": "WooDzu &lt;p.gasiorowski@vipserv.org&gt;",
+    "website": "https:\/\/github.com\/WooDzu\/PhalconEye-Widget-Dynamics",
+    "events": [
+
+    ],
+    "i18n": [
+
+    ]
+}
